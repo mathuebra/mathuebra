@@ -1,7 +1,11 @@
--Matheus Huebra \n
+-Matheus Huebra
+
 -19 anos
+
 -Estudante de Engenharia de Computação
+
 -Conhecimento de CSS, HTML, Java, JavaFX, C, C++
+
 -Word, Excel, Powerpoint
 
 Me chamo Matheus Huebra, sou aluno do Centro Federal de Educação Tecnológica de Minas Gerais - CEFET/MG. 
