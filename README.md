@@ -1,23 +1,47 @@
--Matheus Huebra
+# Bem-vindo ao meu GitHub!
 
--19 anos
+## Sobre Mim
 
--Estudante de Engenharia de Computação
+Meu nome é Matheus, tenho 21 anos e sou aluno de Engenharia de Computação no CEFET-MG. Gosto muito de mexer com programação embarcada envolvendo ESP32, Arduino e outras placas, além de ter interesse também em Banco de Dados, principalmente Oracle. Neste GitHub você encontrará alguns dos projetos no quais trabalhei e trabalho. Fique à vontade para explorar e entrar em contato!
 
--Conhecimento de CSS, HTML, Java, JavaFX, C, C++
+## Experiências
 
--Word, Excel, Powerpoint
+- Projeto de Extensão: 
+> Manutenção e Doação de Computadores
 
-Me chamo Matheus Huebra, sou aluno do Centro Federal de Educação Tecnológica de Minas Gerais - CEFET/MG. 
-Faço graduação em Engenharia de Computação, conheço as linguagens C, C++, Java e programação em microcontroladores como ESP e Arduino. 
-Também tenho experiência avançada em todo pacote office, como excel, word e powerpoint, além de conhecimento em programação web (HTML e CSS).
+> CEFAST BAJA - Equipe de Baja
 
-Sou pesquisador bolsista pelo CEFET-MG onde pesquiso sobre a existência de viés político em algoritmos computacionais.
+- Iniciação Científica:
+> Política em Algoritmos
 
-Sou fluente em inglês e alemão e aprendo francês pelo CEFET-MG. 
-Já tive experiência como tradutor de inglês, e sou certificado pela faculdade de Cambridge como fluente e proficiente na língua inglesa, 
-com experiências de intercâmbio internacional e aprendizado em escola bilíngue.
+- Monitoria:
+> Algoritmos e Estruturas de Dados I
 
-Participo também da equipe de competição CEFAST BAJA SAE, 
-onde sou membro do subsistema de eletrônica e participo ativamente da elaboração e construção de carros off-road de competição, 
-que me fez desenvolver o interesse pela programação de sistemas embarcados.
+## Habilidades
+
+- Linguagens de Programação: 
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+- Banco de Dados:
+
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+
+- Ferramentas e Tecnologias: 
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- Outras Habilidades: Sou fluente em Inglês, Alemão e tenho nível intermediário de Francês. Também conheço todo o pacote Office e um pouco de HTML e CSS
+
+## Conecte-se Comigo
+
+- [GitHub](https://github.com/mathuebra)
+- mathuebra@gmail.com
+
+---
+
+⭐️ **Sinta-se à vontade para contribuir e dar sugestões!**
